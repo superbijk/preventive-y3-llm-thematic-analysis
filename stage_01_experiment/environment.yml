@@ -1,0 +1,9 @@
+name: dental-eval
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - openpyxl
+  - matplotlib
+  - numpy

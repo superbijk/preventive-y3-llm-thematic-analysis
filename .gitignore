@@ -1,0 +1,20 @@
+# Runtime bundle (download instance.zip from the Google Drive folder in README)
+instance/
+
+# Internal developer / authoring directories never published
+.manuscript/
+.aris/
+.claude/
+.playwright-mcp/
+.vscode/
+sources/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
