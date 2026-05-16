@@ -13,7 +13,7 @@ stage_01_experiment/
 └── prompts/
     ├── prompt_1.md                 # detailed procedural (372 lines)
     ├── prompt_2.md                 # structured-concise (101 lines)
-    └── prompt_3.md                 # exploratory (23 lines)
+    └── prompt_3.md                 # exploratory (21 lines)
 stage_02_evaluation/
 ├── run_evaluate.sh                 # rubric audit dispatch
 ├── investigation_prompt.md         # 52-item evaluation rubric template
